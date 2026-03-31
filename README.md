@@ -5,9 +5,6 @@ Predicting whether an order will be delivered late using the DataCo Smart Supply
 ---
 
 ## Dataset
-
-[DataCo Smart Supply Chain for Big Data Analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
-
 - 180,519 orders
 - 53 raw features
 - Target: `Late_delivery_risk` (1 = Late, 0 = On Time)
